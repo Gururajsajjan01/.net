@@ -1,0 +1,8 @@
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\Farmer market project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\Farmer market project.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\Farmer market project.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\Farmer market project.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\Farmer market project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\Farmer market project.RazorAssemblyInfo.cache
+C:\Users\Student\OneDrive\Desktop\khushiiiiiiiiiiiiiiiiiii\Farmer market project\obj\Debug\net8.0\Farmer market project.RazorAssemblyInfo.cs
